@@ -1,0 +1,25 @@
+* {
+    font-family: 'Century Gothic', Verdana, Tahoma, sans-serif;
+    background-color: lightcyan;
+}
+
+img {
+    width: 650px;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.okonomiyaki {
+    color: rgb(71, 20, 20);
+}
+
+.lasagna {
+    color: rgb(214, 214, 125);
+}
+
+.pho {
+    color: rgb(89, 52, 52);
+}
