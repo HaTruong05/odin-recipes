@@ -1,6 +1,12 @@
 * {
     font-family: 'Century Gothic', Verdana, Tahoma, sans-serif;
     background-color: lightcyan;
+    box-sizing: border-box;
+}
+
+img,
+h3 {
+    margin: 0px auto
 }
 
 img {
@@ -8,8 +14,31 @@ img {
     height: auto;
 }
 
+h1,
+p,
+h3,
+ul,
+ol {
+    background-color: white;
+    width: 650px;
+    padding: 10px 20px;
+}
+
+li,
+a {
+    background-color: white;
+}
+
+p,
+h3,
+ul,
+ol {
+    margin: 10px auto;
+}
+
 h1 {
     text-align: center;
+    margin: 20px auto 10px auto;
 }
 
 .okonomiyaki {
@@ -22,4 +51,10 @@ h1 {
 
 .pho {
     color: rgb(89, 52, 52);
+}
+
+.box {
+    width: 650px;
+    margin: 10px auto;
+    margin-top: 0px;
 }
